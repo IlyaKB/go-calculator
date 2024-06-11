@@ -1,4 +1,4 @@
-package calculator
+package gocalculator
 
 // Version of the calculator
 var Version = "1.0"
